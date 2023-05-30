@@ -1,0 +1,10 @@
+商户账号     uhtjja7319@sandbox.com
+登录密码     111111
+
+
+买家账号     tpbgob9194@sandbox.com
+登录密码     111111
+支付密码     111111
+
+
+内网穿透    natapp -authtoken=364d8339d4a7f425
